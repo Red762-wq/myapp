@@ -25,6 +25,7 @@ const About=()=>{
             <div class="bg-dark text-light">
             <h1 class="text-center"> A Kenyan Identity</h1>
             <p>Today, nganyas are recognized across the country and by visitors from around the world as a unique part of kenyan culture and innovation.</p>
+            <P></P>
             <input type="button" value="Explore Kenya" class="btn btn-danger" />
             </div>
         </div>
